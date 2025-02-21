@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">A front-end developer with a passion for building efficient, scalable solutions. I specialize in creating user-friendly applications using modern technologies.<br><br>🌟 An experienced Web Developer specializing in WordPress, GeneratePress, and GenerateBlocks.<br><br>🚀 Recent Projects:<br>🌐 WordPress website with WooCommerce integration. (https://acad1.ph/)<br>🌾 A marketplace app connecting farmers and consumers. (muramartv2.com)<br>📱 Augmented Reality Navigation App using Flutter, Unity, and C#. (https://drive.google.com/drive/folders/1QryelHMVJvjGXbLq3du_N-2RoKxC6mAq)</p>
+<p align="left">A front-end developer with a passion for building efficient, scalable solutions. I specialize in creating user-friendly applications using modern technologies.<br><br>🌟 An experienced Web Developer specializing in WordPress, GeneratePress, and GenerateBlocks.
+  
+  # 🚀 Recent Projects:
+ 🌐 WordPress website with WooCommerce integration. (https://acad1.ph/)<br>🌾 A marketplace app connecting farmers and consumers. (muramartv2.com)<br>📱 Augmented Reality Navigation App using Flutter, Unity, and C#. (https://drive.google.com/drive/folders/1QryelHMVJvjGXbLq3du_N-2RoKxC6mAq)</p>
 
 ###
 
@@ -36,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
 </div>
 
-# Socials:
+# 🌐 Socials:
 <div align="center">
   <a href="https://www.facebook.com/chrisrarss" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
