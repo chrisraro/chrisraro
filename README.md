@@ -6,7 +6,7 @@
   
   # 🚀 Recent Projects:
   - 🌐 WordPress website with WooCommerce integration. (https://acad1.ph/)
-  - 🌾 A marketplace app connecting farmers and consumers. (muramartv2.com)
+  - 🌾 A marketplace app connecting farmers and consumers. (https://muramartv2.com/)
   - 📱 Augmented Reality Navigation App using Flutter, Unity, and C#. (https://drive.google.com/drive/folders/1QryelHMVJvjGXbLq3du_N-2RoKxC6mAq)</p>
 
 ###
