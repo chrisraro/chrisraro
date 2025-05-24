@@ -5,6 +5,7 @@
 <p align="left">A front-end developer with a passion for building efficient, scalable solutions. I specialize in creating user-friendly applications using modern technologies.<br><br>🌟 An experienced Web Developer specializing in WordPress, GeneratePress, and GenerateBlocks.
   
   # 🚀 Recent Projects:
+  - ▲  A real estate web app developed with Vercel (amangroup-webapp.enjoyrealty.com/)
   - 🌐 WordPress website with WooCommerce integration. (https://acad1.ph/)
   - 🌾 A marketplace app connecting farmers and consumers. (https://muramartv2.com/)
   - 📱 Augmented Reality Navigation App using Flutter, Unity, and C#. (https://drive.google.com/drive/folders/1QryelHMVJvjGXbLq3du_N-2RoKxC6mAq)</p>
