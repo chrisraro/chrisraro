@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A front-end developer with a passion for building efficient, scalable solutions. I specialize in creating user-friendly applications using modern technologies.<br><br>🌟 An experienced Web Developer specializing in WordPress, GeneratePress, and GenerateBlocks.
+<p align="left">A software engineer with a passion for building efficient, scalable solutions. I specialize in creating user-friendly applications using modern technologies.<br><br>🌟 An aspiring Web Developer specializing in WordPress, GeneratePress, and GenerateBlocks.
   
   # 🚀 Recent Projects:
   - ▲  A real estate web app developed with Vercel (https://amangroup-webapp.enjoyrealty.com/)
