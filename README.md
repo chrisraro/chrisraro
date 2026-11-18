@@ -1,55 +1,39 @@
-<h2 align="left">Hello World!, I'm Christian, a Filipino Software Engineer 👋</h2>
+## Hi, I'm Christian Raro 👋
 
-###
+**Mid-level Full-Stack Developer** in Naga City, Philippines. I build production web apps with **Next.js, TypeScript and PostgreSQL**, and client sites on **WordPress and WooCommerce** with Philippine payment gateways. I also build AI automations with n8n and LLM APIs.
 
-<p align="left">A software engineer with a passion for building efficient, scalable solutions. I specialize in creating user-friendly applications using modern technologies.<br><br>🌟 An aspiring Web Developer specializing in WordPress, GeneratePress, and GenerateBlocks.
-  
-  # 🚀 Recent Projects:
-  - ▲  A real estate web app developed with Vercel (https://amangroup-webapp.enjoyrealty.com/)
-  - 🌐 WordPress website with WooCommerce integration. (https://acad1.ph/)
-  - 🌾 A marketplace app connecting farmers and consumers. (https://muramartv2.com/)
-  - 📱 Augmented Reality Navigation App using Flutter, Unity, and C#. (https://drive.google.com/drive/folders/1QryelHMVJvjGXbLq3du_N-2RoKxC6mAq)</p>
+Web Developer / AI Automation Specialist at **Online Creative Solutions** since Nov 2024. Open to full-time and freelance work.
 
-###
+🌐 [Portfolio](https://christian-digital-portfolio.vercel.app) · 📄 [Résumé](https://christian-digital-portfolio.vercel.app/assets/resume/Raro,%20Christian%20F%20-%20Resume%20(DEV).pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/christian-raro) · ✉️ rarochristian029@gmail.com
 
-# 💻 Tech Stack:
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
-</div>
+---
 
-# 🌐 Socials:
-<div align="center">
-  <a href="https://www.facebook.com/chrisrarss" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/chrsrars/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/christian-raro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="rarochristian029@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+### What I've shipped
 
+| Project | What it is | Stack |
+|---|---|---|
+| **BeachBus Palawan** · [site](https://beachbus.ph) | Website and WooCommerce storefront for an El Nido shuttle operator, plus a confidential NFC card system now in production for the client | WordPress, WooCommerce, PayPal, PayMongo, Maya · Next.js, NFC |
+| **El Nido Guide PH** · [site](https://elnidoguide.ph) | Multi-operator tour booking marketplace where each operator runs its own store | WooCommerce, Dokan, PayPal, Maya |
+| **Lunad** · [app](https://para-naga.vercel.app) · [code](https://github.com/chrisraro/ParaNaga) | Commuter PWA for Naga City: jeepney trip planner, step-by-step guidance, admin review console (pre-launch) | Next.js, TypeScript, Neon Postgres + PostGIS, RLS, Playwright |
+| **SkimCare** · [app](https://skimcare-app.vercel.app) · [code](https://github.com/chrisraro/SkimCare) | AppBuildersPH Hackathon 2026 entry: reads an agreement on-device and explains key terms in English or Filipino | React Native, Expo, llama.cpp, ML Kit |
+| **OCS WP Control Panel** · [code](https://github.com/chrisraro/Wordpress-Websites-Control-Panel) | Manage, secure and report on client WordPress sites from one dashboard over MCP | Next.js, Supabase, MCP |
+| **BUCS PolicyPulse** · [code](https://github.com/chrisraro/BUCS-PolicyPulse) | RAG policy assistant with verifiable citations and an admin console | Next.js, Vercel AI SDK, LlamaIndex.TS, pgvector |
+| **Aman Group Web App** · [site](https://amangroup-webapp.enjoyrealty.com) · [code](https://github.com/chrisraro/aman-group-website) | Real-estate showcase, loan calculator and broker referral links | Next.js, TypeScript, Upstash |
+| **Connecta PH** · [site](https://connectaph.vercel.app) · [code](https://github.com/chrisraro/connecta) | NFC and QR business cards that open on any phone, with lead capture | Next.js, Supabase, Resend |
+| **Giya** · [site](https://giya.ph) · [code](https://github.com/chrisraro/Giya-2.0) | Receipt-scanning rewards PWA for food and retail | Next.js, Supabase, PWA |
+
+Plus 11 live client sites for hotels, tour operators, restaurants and review centres, including Azalea Baguio, Azalea Boracay, Graceland and ACAD1. [See them all →](https://christian-digital-portfolio.vercel.app/projects)
+
+### Tech stack
+
+- **Frontend & mobile:** TypeScript, React, Next.js (App Router), Tailwind CSS, React Native / Expo, PWAs
+- **Backend & data:** Node.js, REST APIs, PostgreSQL (Supabase, Neon, PostGIS, pgvector), PHP
+- **WordPress & e-commerce:** custom themes and plugins, WooCommerce, Dokan · PayPal, PayMongo, Maya, Xendit
+- **AI & automation:** n8n, LLM APIs (Groq, Gemini, OpenRouter), RAG, MCP, Claude Code, Codex
+- **Testing & DevOps:** Vitest, Playwright, GitHub Actions CI, Vercel, Docker, Render
+
+### How I work
+
+Strict TypeScript, tests and CI on every push, and docs a client's team can follow. I use AI coding tools to move fast, with review and tests behind every change.
+
+🎓 B.S. Computer Science, Bicol University Polangui (2024)
